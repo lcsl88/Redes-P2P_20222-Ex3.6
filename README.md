@@ -14,19 +14,20 @@ Além do sistema de reputação, a aplicação tira proveito principalmente da c
 
 ### 3. Rodando a aplicação:
 
-Para executar a aplicação: primeiro, execute o código ./cryptoforum.sh para preencher o forum com postagens com indicações de compra ou de venda de cryptomoedas, além de outras informações sobre os ativos em si.
+Para executar a aplicação: primeiro, execute o código ./cryptoforum.sh para preencher o fórum com postagens com indicações de compra ou de venda de criptomoedas, além de outras informações sobre os criptoativos em si.
 
-Após preencher o fórum com as postagens dos usuários, após isso rodar o arquivo (python3 cryptoforum.py) que tem como objetivo apresentar uma GUI (Graphical User Interface) feita através da biblioteca Tkinter do Python.
+Após preencher o fórum com as postagens dos usuários com o script cryptoforum.sh, executar o arquivo python cryptoforum.py que tem como objetivo gerar uma GUI (Graphical User Interface) feita através da biblioteca Tkinter do Python.
 
 ### b. Descreva exatamente o que foi implementado
 
-A aplicação rodará sobre o freechains, ou seja, ela usará o freechains como base e referência das informações (postagens). Para essa implementação, foi desenvolvido um script Python que instacia chamadas ao Freechains utilizando a biblioteca subprocess do Python. O objetivo da aplicação é permitir ao usuário do fórum CryptoForum do Freechains que consiga fazer busca por palavras-chaves sob a rede com o objetivo de encontrar algum indicativo de investimentos relevante para ajudar a investir em criptomoedas. A linguagem Python foi escolhida devido à sua versatilidade, disponibilidade de bibliotecas, mas principalmente por ser um pouco menos complexa de desenvolver como o JavaScript por exemplo.
+A aplicação rodará sobre o Freechains, ou seja, ela usará o Freechains como base e referência das informações (postagens) utilizando seu mecanismo de consenso. Para essa implementação, foi desenvolvido um script Python que instacia chamadas ao Freechains utilizando a biblioteca subprocess do Python. O objetivo da aplicação é permitir que usuário do fórum CryptoForum do Freechains consiga fazer busca por palavras-chaves sob a rede com o objetivo de encontrar algum indicativo de investimentos relevante para ajudar a investir em criptomoedas. A linguagem Python foi escolhida devido à sua versatilidade, disponibilidade de bibliotecas, mas principalmente por ser um pouco menos complexa de desenvolver que o JavaScript por exemplo.
 
 ### c. Descreva exatamente o que *não* foi implementado
 
-Uma interface gráfica onde o usuário conseguisse executar comandos do freechains via point-and-click como postar ou dar likes/dislikes. Devido ao prazo para cumprimento da tarefa, realmente só foi possível que eu conseguisse desenvolver uma GUI de busca no Freechains. Mas entendo que é plenamente possível continuar o desenvolvimento da aplicação visando implementar essas funcionalidades.
+Uma interface gráfica onde o usuário conseguisse executar comandos do freechains via point-and-click como postar ou dar likes/dislikes. Devido ao prazo para cumprimento da tarefa, realmente só foi possível que eu conseguisse desenvolver uma GUI de busca no Freechains. Mas entendo ser plenamente plausível continuar o desenvolvimento da aplicação visando implementar tais funcionalidades.
 
 ### d. Enumere as ferramentas utilizadas para a implementação
+
 Shell script para rodar os comandos para simulação das postagens no Freechains, Python para a execução e implementação do protótipo do App e o próprio Freechains rodando por trás
 
 ### a. Inclua um manual de utilização da aplicação
