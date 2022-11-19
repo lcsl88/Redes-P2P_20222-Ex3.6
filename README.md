@@ -33,7 +33,7 @@ Shell script para rodar os comandos para simulação das postagens no Freechains
 
 Primeiramente, é importante destacar que uma simulação foi desenvolvida para testar utilização da aplicação. O ínicio da rede com 5 postagens, uma postagem vai ser descartada e o usuário leitor vai fazer uma busca pela rede por palavra chave. O Administrador vai validar as 5 postagens com o like, assim garantindo reps para os usuários. Um usuário sem reps tentará fazer uma postagem, mas não entrará na rede por conta do freechains. Cinco usuários vão postar informações importantes no repositório (Todas elas vão ser validadas pelo autor). Um Disseminador tentará criar um conteúdo duplicado, porém os outros disseminadores/administradores irão impedir o conteúdo de aparecer no repositorio com os dislikes.
 
-Como utilizar a aplicação?
+### Como utilizar a aplicação?
 
 O usuário poderá efetuar buscas utilizando o App. Primeiro ele deve digitar o termo procurado no item Procurar no CryptoForum, em seguida, após a digitação ele deverá clicar no Botão Buscar. Se o termo buscado estiver contido em alguma postagem no fórum, essa postagem será exibida para o usuário. Caso não esteja presente, o usuário será avisado sobre isso. Por fim, o usuário poderá utilizar o botão "Limpar" para limpar a tela para uma nova pesquisa. 
 
