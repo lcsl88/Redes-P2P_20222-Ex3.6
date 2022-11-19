@@ -1,7 +1,7 @@
 # Redes-P2P_20222-Ex3.6
-Implementação do protótipo da aplicação da disciplina de Redes P2P
+## Implementação do protótipo da aplicação da disciplina de Redes P2P
 
-CryptoForum sobre o Freechains
+## CryptoForum sobre o Freechains
 
 1. Qual é o objetivo da aplicação?
 
@@ -26,7 +26,7 @@ O que não foi implementado
 Uma interface gráfica onde o usuário conseguisse executar comandos do freechains via point-and-click como postar ou dar likes/dislikes. Devido ao prazo para cumprimento da tarefa, realmente só foi possível que eu conseguisse desenvolver uma GUI de busca no Freechains. Mas entendo que é plenamente possível continuar o desenvolvimento da aplicação visando implementar essas funcionalidades.
 
 Ferramentas utilizadas
-Shell script para testes, Python para a execução e o Freechains rodando por trás
+Shell script para rodar os comandos para simulação das postagens no Freechains, Python para a execução e implementação do protótipo do App e o próprio Freechains rodando por trás
 
 Uma simulação foi desenvolvida para testar a aplicação
 O ínicio da rede com 5 postagens, uma postagem vai ser descartada e o usuário leitor vai fazer uma busca pela rede por palavra chave
@@ -34,7 +34,8 @@ O Administrador vai validar as 5 postagens com o like, assim garantindo reps par
 Um usuário sem reps tentará fazer uma postagem, mas não entrará na rede por conta do freechains
 Cinco usuários vão postar informações importantes no repositório (Todas elas vão ser validadas pelo autor)
 Um Disseminador tentará criar um conteúdo duplicado, porém os outros disseminadores/administradores irão impedir o conteúdo de aparecer no repositorio com os dislikes
-O leitor fará uma busca no app Python pelas seguintes palavras: Bitcoin, Ethereum e Monero para obter os resultados
+
+O leitor fará uma busca no protótipo do app Python, por exemplo, pelas seguintes palavras: Bitcoin, Ethereum e Monero para obter os resultados
 
 É importante frisar que o usuário do fórum não precisará estar 'logado', basta ter uma conexão com algum nó da rede.
 
