@@ -1,9 +1,10 @@
 # Redes-P2P_20222-Ex3.6
-## Implementação do protótipo da aplicação da disciplina de Redes P2P
 
-## CryptoForum sobre o Freechains
+## Implementação do protótipo da aplicação da disciplina de Redes P2P - Exercício 3.6
 
-1. Qual é o objetivo da aplicação?
+## CryptoForum
+
+### 1. Qual é o objetivo da aplicação?
 
 O objetivo da aplicação é desenvolver um mecanismo de busca por informações (palavras-chave) sobre um fórum publico cujo tema é oportunidades de investimentos (compra e venda) de criptomoedas. Por exemplo, se o usuário buscar por "Bitcoin" a aplicação deverá ser capaz de retornar as postagens que de alguma forma trouxeram informações de investimentos em bitcoins. Se o usuário buscar por um termo que não foi mencionado no fórum, o usuário deverá ser avisado sobre isso, ou seja, a aplicação deverá ser capaz de tratar os casos de busca por cadeia de strings que não se encontram no fórum. 
 
