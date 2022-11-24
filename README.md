@@ -2,7 +2,7 @@
 
 ## Implementação do protótipo da aplicação da disciplina de Redes P2P - Exercício 3.6
 
-## App de Busca no CryptoForum
+## App de Busca num fórum simulado com informações e dicas de compra ou de venda de criptomoedas - CryptoForum
 
 ### 1. Qual é o objetivo da aplicação?
 
@@ -22,7 +22,7 @@ Após preencher o fórum com as postagens dos usuários com o script cryptoforum
 
 ### b. Descreva exatamente o que foi implementado
 
-A aplicação rodará sobre o Freechains, ou seja, ela usará o Freechains como base e referência das informações (postagens) utilizando seu mecanismo de consenso. Para essa implementação, foi desenvolvido um script Python que instacia chamadas ao Freechains utilizando a biblioteca subprocess do Python. O objetivo da aplicação é permitir que usuário do fórum CryptoForum do Freechains consiga fazer busca por palavras-chaves sob a rede com o objetivo de encontrar algum indicativo de investimentos relevante para ajudar a investir em criptomoedas. A linguagem Python foi escolhida devido à sua versatilidade, disponibilidade de bibliotecas, mas principalmente por ser um pouco menos complexa de desenvolver que o JavaScript por exemplo.
+A aplicação rodará sobre o Freechains, ou seja, ela usará o Freechains como base e referência das informações (postagens) utilizando seu mecanismo de consenso. Para essa implementação, foi desenvolvido um script Python que instacia chamadas ao Freechains utilizando a biblioteca subprocess do Python. Foi desenvolvido um mecanismo de busca por palavras chave em uma cadeia de postagens do Freechains, ou seja, a aplicação é capaz de analisar postagem a postagem se determinada cadeia de string pertence às postagens, retornando não só a cadeia de strings em si, mas todo o contexto em que ela se insere. Também foi implementado o tratamento do retorno no caso de a cadeia de strings não pertecer ao conjunto de postagens. O objetivo da aplicação é permitir que o usuário do fórum do Freechains CryptoForum consiga fazer busca por palavras-chaves sob a rede com o objetivo de encontrar algum indicativo de investimentos relevante para ajudar a investir em criptomoedas. A linguagem Python foi escolhida devido à sua versatilidade, disponibilidade de bibliotecas, mas principalmente por ser um pouco menos complexa de se desenvolver que por exemplo C++ ou JavaScript.
 
 ### c. Descreva exatamente o que *não* foi implementado
 
