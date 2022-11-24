@@ -2,7 +2,7 @@
 
 ## Implementação do protótipo da aplicação da disciplina de Redes P2P - Exercício 3.6
 
-## App de Busca num fórum simulado com informações e dicas de compra e de venda de criptomoedas - CryptoForum
+## App de Busca num fórum simulado com informações e dicas de compra/venda de criptomoedas - CryptoForum
 
 ### 1. Qual é o objetivo da aplicação?
 
