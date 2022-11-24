@@ -26,7 +26,7 @@ A aplicação rodará sobre o Freechains, ou seja, ela usará o Freechains como 
 
 ### c. Descreva exatamente o que *não* foi implementado
 
-Uma interface gráfica onde o usuário conseguisse executar comandos do freechains via point-and-click como postar ou dar likes/dislikes. Devido ao prazo para cumprimento da tarefa, realmente só foi possível que eu conseguisse desenvolver uma GUI de busca no Freechains. Mas entendo ser plenamente plausível continuar o desenvolvimento da aplicação visando implementar tais funcionalidades.
+Uma interface gráfica onde o usuário conseguisse executar comandos do freechains via point-and-click como postar no CryptoForum ou dar likes/dislikes.
 
 ### d. Enumere as ferramentas utilizadas para a implementação
 
