@@ -40,6 +40,6 @@ O usuário poderá efetuar buscas utilizando o App. Primeiro ele deve digitar o 
 
 No exemplo para essa questão, simulamos buscas pelas seguintes palavras: Bitcoin, Ethereum e Monero para obter os resultados correspondentes.
 
-É importante frisar que o usuário do fórum não precisará estar 'logado', basta ter uma conexão com algum nó da rede.
+(*) É importante frisar que o usuário do fórum não precisará estar 'logado', basta ter uma conexão com algum nó da rede.
 
-* Screenshots com funcionamento da aplicação estão disponíveis na raiz desse repositório
+(**) Screenshots com funcionamento da aplicação estão disponíveis na raiz desse repositório
