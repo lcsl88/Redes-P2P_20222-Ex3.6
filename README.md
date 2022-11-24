@@ -30,15 +30,13 @@ Uma interface gráfica onde o usuário conseguisse executar comandos do freechai
 
 ### d. Enumere as ferramentas utilizadas para a implementação
 
-Shell script para rodar os comandos para simulação das postagens no Freechains, Python para a execução e implementação do protótipo do App e o próprio Freechains rodando por trás
+Shell script para rodar os comandos para simulação das postagens no Freechains, Python para a execução e implementação do protótipo do App e uma instância do Freechains rodando em um Terminal.
 
 ### Como utilizar a aplicação?
 
 ### a. Inclua um manual de utilização da aplicação
 
-O usuário poderá efetuar buscas utilizando o App. Primeiro ele deve digitar o termo procurado no item Procurar no CryptoForum, em seguida, após a digitação ele deverá clicar no Botão Buscar. Se o termo buscado estiver contido em alguma postagem no fórum, essa postagem será exibida para o usuário. Caso não esteja presente, o usuário será avisado sobre isso. Por fim, o usuário poderá utilizar o botão "Limpar" para limpar a tela para uma nova pesquisa. 
-
-No exemplo para essa questão, simulamos buscas pelas seguintes palavras: Bitcoin, Ethereum e Monero para obter os resultados correspondentes.
+O usuário poderá efetuar buscas utilizando o App. Primeiro ele deve digitar o termo procurado no item Procurar no CryptoForum, em seguida, após a digitação ele deverá clicar no Botão Buscar. Se o termo buscado estiver contido em alguma postagem no fórum, essa postagem será exibida para o usuário. Caso não esteja presente, o usuário será avisado sobre isso. Por fim, o usuário poderá utilizar o botão "Limpar" para limpar a tela para uma nova pesquisa. No exemplo para essa questão, simulamos buscas pelas seguintes palavras-chave: Bitcoin, Ethereum e Monero para obter os resultados correspondentes caso haja ou se não, avisar ao usuário de que não há o termo buscado.
 
 (*) É importante frisar que o usuário do fórum não precisará estar 'logado', basta ter uma conexão com algum nó da rede.
 
