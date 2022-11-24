@@ -6,7 +6,7 @@
 
 ### 1. Qual é o objetivo da aplicação?
 
-O objetivo da aplicação é desenvolver um mecanismo de busca por informações (palavras-chave) sobre um fórum publico cujo tema é oportunidades de investimentos (compra e venda) de criptomoedas. Por exemplo, se o usuário buscar por "Bitcoin" a aplicação deverá ser capaz de retornar as postagens que de alguma forma trouxeram informações de investimentos em bitcoins. Se o usuário buscar por um termo que não foi mencionado no fórum, o usuário deverá ser avisado sobre isso, ou seja, a aplicação deverá ser capaz de tratar os casos de busca por cadeia de strings que não se encontram no fórum. 
+O objetivo da aplicação é propor um fórum público P2P (o CryptoForum) com um sistema de reputação das postagens. Foi desenvolvido um mecanismo de busca por informações (palavras-chave) sobre esse fórum publico cujo tema é oportunidades de investimentos (compra e venda) de criptomoedas. Por exemplo, se o usuário buscar por "Bitcoin" a aplicação deverá ser capaz de retornar as postagens que de alguma forma trouxeram informações de investimentos em bitcoins. Se o usuário buscar por um termo que não foi mencionado no fórum, o usuário deverá ser avisado sobre isso, ou seja, a aplicação deverá ser capaz de tratar os casos de busca por cadeia de strings que não se encontram no fórum. 
 
 ### 2. Que outras funcionalidades do Freechains a aplicação tira proveito? (Além do sistema de reputação.)
 
