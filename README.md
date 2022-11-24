@@ -10,9 +10,11 @@ O objetivo da aplicação é desenvolver um mecanismo de busca por informações
 
 ### 2. Que outras funcionalidades do Freechains a aplicação tira proveito? (Além do sistema de reputação.)
 
-Além do sistema de reputação, a aplicação tira proveito principalmente da capacidade de o Freechains consensuar as postagens em um fórum público. Hoje em uma pesquisa na internet não foi possível encontrar um fórum público não permissionado em português sobre investimentos em critpoativos, todos eles como (br.investing.com ou https://br.advfn.com/forum são fóruns permissionados)
+Além do sistema de reputação, a aplicação tira proveito principalmente da capacidade de o Freechains consensuar as postagens em um fórum público. Hoje em uma pesquisa na internet não foi possível encontrar um fórum público não permissionado em português sobre investimentos em critpoativos, a maioria deles como por exemplo (https://br.investing.com ou https://br.advfn.com/forum) são fóruns permissionados.
 
 ### 3. Rodando a aplicação:
+
+Primeiramente, é importante destacar que uma simulação foi desenvolvida para testar utilização da aplicação. O ínicio da rede com 5 postagens, uma postagem vai ser descartada e o usuário leitor vai fazer uma busca pela rede por palavra chave. O Administrador vai validar as 5 postagens com o like, assim garantindo reps para os usuários. Um usuário sem reps tentará fazer uma postagem, mas não entrará na rede por conta do freechains. Cinco usuários vão postar informações importantes no repositório (Todas elas vão ser validadas pelo autor). Um Disseminador tentará criar um conteúdo duplicado, porém os outros disseminadores/administradores irão impedir o conteúdo de aparecer no repositorio com os dislikes.
 
 Para executar a aplicação: primeiro, execute o código ./cryptoforum.sh para preencher o fórum com postagens com indicações de compra ou de venda de criptomoedas, além de outras informações sobre os criptoativos em si.
 
@@ -31,8 +33,6 @@ Uma interface gráfica onde o usuário conseguisse executar comandos do freechai
 Shell script para rodar os comandos para simulação das postagens no Freechains, Python para a execução e implementação do protótipo do App e o próprio Freechains rodando por trás
 
 ### Como utilizar a aplicação?
-
-Primeiramente, é importante destacar que uma simulação foi desenvolvida para testar utilização da aplicação. O ínicio da rede com 5 postagens, uma postagem vai ser descartada e o usuário leitor vai fazer uma busca pela rede por palavra chave. O Administrador vai validar as 5 postagens com o like, assim garantindo reps para os usuários. Um usuário sem reps tentará fazer uma postagem, mas não entrará na rede por conta do freechains. Cinco usuários vão postar informações importantes no repositório (Todas elas vão ser validadas pelo autor). Um Disseminador tentará criar um conteúdo duplicado, porém os outros disseminadores/administradores irão impedir o conteúdo de aparecer no repositorio com os dislikes.
 
 ### a. Inclua um manual de utilização da aplicação
 
