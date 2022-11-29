@@ -36,6 +36,6 @@ Primeiramente, é importante destacar que uma simulação foi desenvolvida para 
 
 MANUAL: O usuário poderá efetuar buscas utilizando o App. Primeiro ele deve digitar o termo procurado no item Procurar na CryptoWiki, em seguida, após a digitação ele deverá clicar no Botão Buscar. Se o termo buscado estiver contido em alguma postagem na Wiki, essa postagem será exibida para o usuário. Caso não esteja presente, o usuário será avisado sobre isso. Por fim, o usuário poderá utilizar o botão "Limpar" para limpar a tela para uma nova pesquisa. No exemplo para essa questão, simulamos buscas pelas seguintes palavras-chave na Wiki: Bitcoin, Ethereum e Monero para obter os resultados correspondentes caso haja ou se não, avisar ao usuário de que não há o termo buscado. O usuário também poderá efetuar postagens de novos conteúdos na Wiki. Depois de efetuada uma busca por conteúdo, o usuário poderá dar like ou dislike nesse conteúdo buscado.
 
-(*) É importante frisar que o usuário do fórum não precisará estar 'logado', basta ter uma conexão com algum nó da rede.
+(*) É importante frisar que o usuário da Wiki não precisará estar 'logado', basta ter uma conexão com algum nó da rede.
 
 (**) Screenshots com funcionamento da aplicação estão disponíveis na raiz desse repositório
