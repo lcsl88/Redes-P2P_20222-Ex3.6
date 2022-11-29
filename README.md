@@ -14,7 +14,7 @@ Além do sistema de reputação, a aplicação tira proveito principalmente da c
 
 ### 3. Rodando a aplicação:
 
-Para executar a aplicação: primeiro, execute o código ./cryptowiki.sh para preencher a Wiki com postagens iniciais com indicações de compra ou de venda de criptomoedas, além de outras informações técnicas sobre os criptoativos em si.
+Para executar a aplicação: primeiro, execute o código ./simul.sh para preencher a Wiki com postagens iniciais com indicações de compra ou de venda de criptomoedas, além de outras informações técnicas sobre os criptoativos em si.
 
 Após preencher a Wiki com as postagens dos usuários com o script cryptowiki.sh, executar o arquivo python cryptowiki.py que tem como objetivo gerar uma GUI (Graphical User Interface) feita através da biblioteca Tkinter do Python. Nessa GUI é possível buscar conteúdo, postar conteúdo, limpar o conteúdo da pesquisa ou da busca e dar likes ou dislikes nos conteúdos da Wiki. Em todos os casos a aplicação é capaz de avisar se houve êxito ou não na ação.
 
