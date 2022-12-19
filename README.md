@@ -38,4 +38,4 @@ MANUAL: O cliente poderá efetuar buscas utilizando o App CryptoWiki. Primeiro e
 
 (*) É importante frisar que o cliente da Wiki não precisará estar 'logado', basta ter uma conexão com algum nó da rede, denotando o caráter não permissionado da rede.
 
-(**) Screenshots (de 1 a 11) com funcionamento da aplicação estão disponíveis na raiz desse repositório
+(**) Screenshots (de 0 a 11) com funcionamento da aplicação estão disponíveis na raiz desse repositório
