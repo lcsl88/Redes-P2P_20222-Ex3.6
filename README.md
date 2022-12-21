@@ -36,7 +36,14 @@ Primeiramente, é importante destacar que uma simulação foi desenvolvida para 
 
 ### a. Inclua um manual de utilização da aplicação
 
-MANUAL: O cliente poderá efetuar buscas utilizando o App CryptoWiki. Primeiro ele deve digitar o termo procurado no item Procurar na CryptoWiki, em seguida, após a digitação ele deverá clicar no Botão Buscar. Se o termo buscado estiver contido em alguma postagem na Wiki, essa postagem será exibida para o cliente. Caso não esteja presente, o cliente será avisado sobre isso. O cliente também poderá utilizar o botão "Limpar" para limpar a tela para uma nova pesquisa. O cliente também poderá efetuar postagens de novos conteúdos na Wiki. Depois de efetuada uma busca por conteúdo, o cliente poderá dar like ou dislike nesse conteúdo buscado somente após ser selecionado pelo cliente. Também é possível selecionar um dos usuários cadastrados para dar o like ou dislike, nesse caso somente a reputação desse usuário selecionado é afetada. Ao lado de cada postagem é apresentada o total de reputação dessas postagem. Também é possível saber quanto de reputação cada usuário possui.
+MANUAL: Você poderá efetuar buscas, postar, curtir ou descurtir conteúdo utilizando o App CryptoWiki; 
+        Primeiro você deve digitar o termo procurado no item Procurar na CryptoWiki, em seguida, após a digitação você deverá clicar no Botão Buscar; 
+        Se o termo buscado estiver contido em alguma postagem na Wiki, essa postagem será exibida para você. Caso não esteja presente, você também será avisado sobre isso. 
+        Você também poderá utilizar o botão "Limpar" para limpar a tela para uma nova pesquisa;
+        Você também poderá efetuar postagens de novos conteúdos na Wiki;
+        Depois de efetuada uma busca por conteúdo, você poderá dar like ou dislike nesse conteúdo buscado somente após ser selecionado por você;
+        Também é possível selecionar um dos usuários cadastrados para dar o like ou dislike, nesse caso somente a reputação desse usuário selecionado é afetada;
+        Ao lado de cada postagem é apresentada o total de reputação dessas postagem. Também é possível saber quanto de reputação cada usuário possui.
 
 (*) É importante frisar que o cliente da Wiki não precisará estar 'logado', basta ter uma conexão com algum nó da rede, denotando o caráter não permissionado da rede.
 
